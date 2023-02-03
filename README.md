@@ -1,6 +1,10 @@
 # Conway's Game of Life, Simple Simulator
 
-A simple from-scratch Game of Life Simulator.
+A simple Game of Life Simulator. 
+I wrote it from scratch, in the Handmade Hero Style for the purposes of practicing and learning. 
+
+![Game of Life](gol.PNG)
+
 
 ## The game's workflow:
 1. On startup, we open a blank canvas
